@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const About = () => {
   return (
-    <div className="min-h-screen bg-gray-50 py-12 px-6 lg:px-20">
+    <div className="min-h-screen bg-gray-50 pt-14 lg:pt-28 px-6 lg:px-20">
       {/* Header */}
       <h1 className="text-4xl font-bold text-center text-[#005350] mb-6">
         About Healio

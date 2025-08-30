@@ -2,9 +2,9 @@ import Image from "next/image";
 
 const Banner = () => {
   return (
-    <section className="bg-[#005350] py-10 lg:py-20">
+    <section className="bg-[#005350] py-10 lg:py-28">
       <div className=" grid grid-cols-1 px-2 md:px-8 lg:px-12 lg:grid-cols-2 items-center gap-10 ">
-        <div className=" space-y-6">
+        <div className=" space-y-6 mt-12 lg:mt-0">
           <h1 className="text-3xl lg:text-5xl font-bold text-white">
             Find the Right Doctor & Book Appointments Instantly
           </h1>
