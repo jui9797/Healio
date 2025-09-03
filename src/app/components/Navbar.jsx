@@ -63,14 +63,23 @@ const Navbar = () => {
         {user ? (
           <UserButton />
         ) : (
-          <button
-            onClick={openSignIn}
-            className={`px-8 py-2.5 rounded-full ml-4 transition-all duration-500 ${
-              isScrolled ? "text-white bg-black" : "bg-white text-black"
-            }`}
-          >
-            Login
-          </button>
+          <>
+            <button
+              onClick={openSignIn}
+              className={`px-8 py-2.5 rounded-full ml-4 transition-all duration-500 ${
+                isScrolled ? "text-white bg-black" : "bg-white text-black"
+              }`}
+            >
+              Login
+            </button>
+            <button
+              className={`px-8 py-2.5 rounded-full ml-4 transition-all duration-500 ${
+                isScrolled ? "text-white bg-black" : "bg-white text-black"
+              }`}
+            >
+              <Link href="/signup">Sign up</Link>
+            </button>
+          </>
         )}
       </div>
 
