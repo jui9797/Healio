@@ -56,6 +56,9 @@ const Navbar = () => {
         <Link href="/about" className="hover:underline">
           About
         </Link>
+        <Link href="/healioAi" className="hover:underline">
+          Healio AI
+        </Link>
       </div>
 
       {/* Desktop Right */}
