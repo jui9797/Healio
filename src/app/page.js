@@ -1,4 +1,3 @@
-import AiAssistant from "./components/home/AiAssistant";
 import Banner from "./components/home/Banner";
 import ClientReviews from "./components/home/ClientReviews";
 import FindBy from "./components/home/FindBy";
@@ -14,7 +13,7 @@ export default function Home() {
 
         <Support></Support>
         <HowItWorks></HowItWorks>
-        <AiAssistant></AiAssistant>
+
         <ClientReviews></ClientReviews>
         <NextStep></NextStep>
       </main>
