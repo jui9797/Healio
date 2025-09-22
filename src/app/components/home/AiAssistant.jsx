@@ -37,7 +37,7 @@ const AiAssistant = () => {
       </h2>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         {/* lottie */}
-        <div className="border-2">image</div>
+        <div className="border-2">ai image</div>
 
         {/* input box */}
         <div className="flex flex-col gap-4 border-2 p-4">
