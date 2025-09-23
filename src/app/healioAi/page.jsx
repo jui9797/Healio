@@ -1,5 +1,5 @@
 import React from "react";
-import AiAssistant from "../components/home/AiAssistant";
+import AiAssistant from "./AiAssistant";
 
 const page = () => {
   return (

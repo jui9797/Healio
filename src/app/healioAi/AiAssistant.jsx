@@ -1,5 +1,7 @@
 "use client";
 import { useState } from "react";
+import aiAsistant from "../../../public/chatbot.json";
+import Lottie from "lottie-react";
 
 const AiAssistant = () => {
   const [question, setQuestion] = useState("");
@@ -37,7 +39,14 @@ const AiAssistant = () => {
       </h2>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         {/* lottie */}
-        <div className="border-2">ai image</div>
+        <div className="border-2 flex justify-center items-center p-4">
+          {" "}
+          <Lottie
+            animationData={aiAsistant}
+            loop={true}
+            className="w-64 h-64 lg:w-96 lg:h-96"
+          />
+        </div>
 
         {/* input box */}
         <div className="flex flex-col gap-4 border-2 p-4">
