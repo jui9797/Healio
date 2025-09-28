@@ -38,7 +38,8 @@ const AiAssistant = () => {
         Healio AI Assistant
       </h2>
       <p>
-        Ask any queries about our services. hhhj hj bb tt hh jj jjn kk kkh .{" "}
+        Ask any queries about our services. hhhj hj bb tt hh jj jjn kk kkh
+        aaagghh bbl tt bh ok tg o bb thh bbo kk noo hhbbobfgu.{" "}
       </p>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         {/* lottie */}
