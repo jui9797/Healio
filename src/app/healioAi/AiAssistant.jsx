@@ -40,17 +40,16 @@ const AiAssistant = () => {
       <p>
         Ask any queries about our services. hhhj hj bb tt hh jj jjn kk kkh
         aaagghh bbl tt bh ok tg o bb thh bbo kk noo hhbbobfgu jasmin jasmin lolo
-        lolol loolool lool lool lloo jaimn ghgjh ghjh gjhg gjh new message
-        hhhjhjhj vbvbh hghg thik is should be removed.{" "}
+           hhhjhjhj vbvbh hghg jasi jaasi jassi jassi jassi bjhn thik is should be removed.{" "}
       </p>
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">  
         {/* lottie */}
         <div className="border-2 flex justify-center items-center p-4">
           {" "}
           <Lottie
             animationData={aiAsistant}
             loop={true}
-            className="w-64 h-64 lg:w-96 lg:h-96"
+            className="w-64 h-64 lg:w-96 lg:h-96 
           />
         </div>
 
