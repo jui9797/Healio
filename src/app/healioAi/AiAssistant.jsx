@@ -40,7 +40,7 @@ const AiAssistant = () => {
       <p>
         Ask any queries about our services. hhhj hj bb tt hh jj jjn kk kkh
         aaagghh bbl tt bh ok tg o bb thh bbo kk noo hhbbobfgu jasmin jasmin lolo
-           hhhjhjhj vbvbh hghg jasi jaasi jassi jassi jassi bjhn godds fhyghh fhhyt fjjbd  thik is should be removed.{" "}
+           hhhjhjhj vbvbh hghg jasi jaasi jassi jassi jassi bjhn godds fhyghh fhhyt fjjbd hjkgf bjgfdb ngjjb  thik is sho jgfh fgbh uld be removed.{" "}
       </p>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">  
         {/* lottie */}
