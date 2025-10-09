@@ -37,24 +37,20 @@ const AiAssistant = () => {
       <h2 className="text-2xl lg:text-4xl font-bold text-teal-900 mb-10">
         Healio AI Assistant
       </h2>
-      <p>
-        Ask any queries about our services. hhhj hj bb tt hh jj jjn kk kkh
-        aaagghh bbl tt bh ok tg o bb thh bbo kk noo hhbbobfgu jasmin jasmin lolo
-           hhhjhjhj vbvbh hghg jasi jaasi jassi jassi jassi bjhn godds fhyghh fhhyt fjjbd hjkgf bjgfdb ngjjb  thik is sho jgfh fgbh fddyy hfsevn nbjt vhk hjgg uld be removed.{" "}
-      </p>
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">  
+      <p>Ask any queries about our services. </p>
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         {/* lottie */}
         <div className="border-2 flex justify-center items-center p-4">
           {" "}
           <Lottie
             animationData={aiAsistant}
             loop={true}
-            className="w-64 h-64 lg:w-96 lg:h-96 
+            className="w-64 h-64 lg:w-96 lg:h-96"
           />
         </div>
 
         {/* input box */}
-        <div className="flex flex-col gap-4 border-2 p-4">
+        <div className="flex flex-col gap-4 border-2 p-4 lg:p-8">
           <input
             value={question}
             onChange={(e) => setQuestion(e.target.value)}
