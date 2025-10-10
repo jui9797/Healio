@@ -37,7 +37,11 @@ const AiAssistant = () => {
       <h2 className="text-2xl lg:text-4xl font-bold text-teal-900 mb-10">
         Healio AI Assistant
       </h2>
-      <p>Ask any queries about our services. </p>
+      <p>
+        Ask any queries about our services.Aaaaa bbb sss ddd cc vv bbb ggg hhh
+        bb ttt nnn ggg ttt bbb ddd sss aaa this is the demo text this part
+        should bev deleted.{" "}
+      </p>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         {/* lottie */}
         <div className="border-2 flex justify-center items-center p-4">
