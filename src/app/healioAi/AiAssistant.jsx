@@ -38,12 +38,8 @@ const AiAssistant = () => {
         Healio AI Assistant
       </h2>
       <p className="mb-8 text-red-700">
-        Ask any queries about our services.Aaaaa bbb sss ddd cc vv bbb ggg hhh
-        bb ttt nnn ggg ttt bbb ddd sss aaa aaaa ggg jui jui jui jui jui jui jui
-        jui jui jui jui jui jui jui jui jui jui jui jui jui jui jui jui jui jui
-        jui jui jui jui jui jui jui jui jui jui jui jui jui jui jui jui jui bbb
-        ff dd rr fff cc dd www this is the demo text this part should bev
-        deleted.{" "}
+        Ask any queries about our services. hjhjh gfhg jhkh kjhjkh jgjh jhgj
+        jgjk jkgkj jgj jgjk jhgj{" "}
       </p>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         {/* lottie */}
